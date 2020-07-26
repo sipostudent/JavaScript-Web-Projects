@@ -1,4 +1,3 @@
-"# JavaScript-Web-Projects" 
 <h1 align = "center">
 <br>
   <img src = "img/JavaScript-logo.png" width = "600">
