@@ -3,7 +3,7 @@
   <img src = "img/JavaScript-logo.png" width = "600">
   <br>
     <br>
-  Projects - JavaScript
+  Web Projects - JavaScript
   <br>
 </ H1>
 
